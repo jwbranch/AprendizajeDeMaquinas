@@ -4,4 +4,7 @@ Repositorio de la asignaturas Aprendizaje de Máquinas
 Universidad Nacional - Sede Medellin  
 2020-2S
 
-Docente: Ph.D. John Willian Branch
+Docente: Ph.D. John Willian Branch  
+
+## Grabaciones  
+* Sesión 01: https://drive.google.com/file/d/1aqL9utr3hDNu5b2Zpijx31JfE05ER2gK/view?usp=sharing  
