@@ -8,3 +8,4 @@ Docente: Ph.D. John Willian Branch
 
 ## Grabaciones  
 * Sesión 01: https://drive.google.com/file/d/1aqL9utr3hDNu5b2Zpijx31JfE05ER2gK/view?usp=sharing  
+* Sesión 02: https://drive.google.com/file/d/13UDe9zkeRzm-SD56knsI2iUGc3Q-Psyu/view?usp=sharing  
